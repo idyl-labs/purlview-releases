@@ -17,6 +17,6 @@ download, see
 <https://purlview.com/install#verify>.
 
 Releases are published by an automated workflow. This repository contains
-no source code.
+no source code. Report security issues to <security@purlview.com>.
 
 Copyright © Idyl Labs, Inc. All rights reserved.
